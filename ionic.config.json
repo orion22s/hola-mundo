@@ -1,0 +1,8 @@
+{
+  "name": "holaMundo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9959a4ef"
+}
